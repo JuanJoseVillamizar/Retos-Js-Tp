@@ -1,7 +1,7 @@
 /**
  * Tests for the findFirstRepeated function..
  */
-const findFirstRepeated = require('./reto1'); 
+const findFirstRepeated = require('./challenge1.js'); 
 describe('findFirstRepeated', () => {
 
     test('Should return a number', () => {

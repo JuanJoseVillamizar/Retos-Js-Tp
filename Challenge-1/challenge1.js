@@ -3,6 +3,7 @@
  * @param {Array} gifts - The gift list..
  * @returns {(number|string)} The first repeated gift, or -1 if there are no repeated gifts.
  */
+const gifts = []
 function findFirstRepeated(gifts){
     const newGifts = new Set()
     for(let gift of gifts){
