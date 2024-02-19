@@ -10,7 +10,6 @@ Los desafíos de programación y los tests fueron creados por Midudev y se puede
 
 ### Reto 1: Primer Regalo Repetido
 
-[Descripción del problema del Reto 1]
 En la fábrica de juguetes del Polo Norte, cada juguete tiene un número de identificación único.
 
 Sin embargo, debido a un error en la máquina de juguetes, algunos números se han asignado a más de un juguete.
@@ -37,7 +36,6 @@ console.log(firstRepeatedId3) // 5
 
 ### Reto 2: [Ponemos en marcha la fábrica]
 
-[Descripción del problema del Reto 2]
 En el taller de Santa, los elfos tienen una lista de regalos que desean fabricar y un conjunto limitado de materiales.
 
 Los regalos son cadenas de texto y los materiales son caracteres. Tu tarea es escribir una función que, dada una lista de regalos y los materiales disponibles, devuelva una lista de los regalos que se pueden fabricar.
